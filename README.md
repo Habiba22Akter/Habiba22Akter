@@ -3,7 +3,7 @@
 
 - I am currently **a final-year student of B.Sc. in Engineering in Information and Communication Engineering at Noakhali Science and Technology University.**
 
-- I’m currently learning **JavaScript,React.**
+- I’m currently learning **JavaScript,React,Next.js,Node.js,Express.js,MongoDB.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
